@@ -1,0 +1,88 @@
+input#vehiculo.form-check-input{
+	    margin-top: 5%;
+}
+
+input[type=file] {
+    margin-top: 3%;
+}
+.imagen{
+	width:30px; 
+	height:30px;
+}
+.tit-curriculum{
+	text-decoration:none;
+	font-size:150%;
+	margin-left: 3%;
+}
+.tit-curriculum:hover{
+	text-decoration:none;
+	color: #3097D1;
+}
+.titulo1{
+	text-decoration:none;
+	font-size:150%;
+}
+.titulo1:hover{
+	text-decoration:none;
+	color: #3097D1;
+}
+.margenDiv1{
+	margin-top:2%;
+	margin-left:3%;
+}
+.margenDiv2{
+	margin-top:3%;
+}
+.formulario1{
+	margin-top:-2.5%;
+}
+.editarExperiencia{
+	margin-right: 2%;
+}
+.editarIdiomas{
+	margin-right: 2%;
+}
+.editarFormacion{
+	margin-right: 2%;
+}
+.btnEliminar{
+	margin-bottom: 5%;
+	margin-left: 74%; 
+}
+.btnSeleccionar{
+	margin-right: 2%;
+}
+.js-sectores{
+	width: 70%;
+}
+.panel-default>.panel-heading-ofertas {
+color: #fff;
+background: #1f648b;
+border-color: #ddd;
+}
+.panel-heading-ofertas a{
+color: #fff;
+text-decoration: none;
+font-weight: bold;
+}
+.editarOferta{
+	margin-right:2%;
+}
+.botones1{
+	margin-bottom: 1%;
+}
+input#curriculums{
+	outline: none;
+	color:transparent;
+	margin-top: 20%;
+}
+.Act{
+	text-decoration:none;
+}
+.Act:hover{
+	text-decoration:none;
+	color: #3097D1;
+}
+.botonAdmin{
+	margin-left: 10%;
+}
